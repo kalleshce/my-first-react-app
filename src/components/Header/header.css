@@ -1,0 +1,12 @@
+.header-container {
+    background-color: #1e90ff;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.menu-item {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 25px;
+}
