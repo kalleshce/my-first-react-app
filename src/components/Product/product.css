@@ -1,0 +1,29 @@
+.product-title,
+.product-price
+ {
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 10px;
+}
+
+
+.product-container {
+  max-width: 300px;
+  border: 3px groove dimgray;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+
+.product-title {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.product-description{
+    margin-left: 10px;
+    font-size:14px;
+}
+img {
+  max-height: 300px;
+}
